@@ -16,6 +16,8 @@ VIDEO WALKTHOUGH: https://youtu.be/pwn4zknR5TU
         - If it says installing for more than 5 minutes, close the Ubuntu window and re-open it
 1. Configure your Windows Terminal
     - Open your Windows Terminal application and select the dropdown next to the new tab button then select Settings
+    - Click "Open JSON file" at the bottom left on the Settings screen
+    - If you are asked which application to use to open the JSON settings file, choose VS Code
     - Scroll down until you find this section:
  
     ```js
