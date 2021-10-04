@@ -7,7 +7,7 @@ Follow these steps in order.
 ## 1. Install VS Code extensions
 
   * ESLint
-  * WSL - Remote (Windows 10 only)
+  * Remote - WSL  (Windows 10 only)
   * Live Share (online students only)
   * GitLens (optional, but recommended)
   * vscode-icons (optional, but pretty :wink:)
